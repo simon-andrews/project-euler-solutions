@@ -1,0 +1,6 @@
+# Binaries
+*.o
+*.out
+
+# Haskell
+*.hi
